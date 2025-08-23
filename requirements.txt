@@ -1,0 +1,2 @@
+# Adicione o numpy
+numpy
